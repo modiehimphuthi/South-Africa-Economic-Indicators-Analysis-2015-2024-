@@ -70,8 +70,7 @@ Clean, well-documented notebook structure
 
 1. Clone the repository
 2. Ensure you have Python installed with pandas, matplotlib, and seaborn
-3. Open SA_Economic_Indicators_EDA.ipynb in Jupyter Notebook
+3. Open South Africa Economic Indicators (2015-2024).ipynb in Jupyter Notebook
 4. Run all cells in order
-
 
 Built by **Modiehi Mphuthi**
